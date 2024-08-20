@@ -2,6 +2,8 @@
 
 Regular expressions (regex) are powerful tools for matching patterns in strings. This tutorial breaks down a regex used to match a valid email address.
 
+Link to the public gist https://gist.github.com/ScheckJ/d66e580c1c6a6284848769d559ffcacc
+
 
 ## Summary
 
